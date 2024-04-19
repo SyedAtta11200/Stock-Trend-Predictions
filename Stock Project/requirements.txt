@@ -1,0 +1,1 @@
+pip install pandas numpy matplotlib yfinance scikit-learn keras streamlit prophet statsmodels
